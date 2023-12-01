@@ -40,7 +40,11 @@ public class Fruit_Test {
 			aList.get(i).totalPrice();
 		}
 		
+		int aa = (int) 3.5 ;
 		
+		double bb = (double) 30 ;
+		
+//		int cc = ((double)3 + 5.5) ;
 		
 		
 		
